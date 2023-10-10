@@ -24,12 +24,14 @@
 
 ### Diagrama de Secuencia
 
+```
 title Registrar servicio
 
-##### Guía Turístico->IU:Ingresar al sitio web
-##### IU->Controller:Validar logueo(Guía Turístico)
-##### Controller->IU:Mostrar inicio de sesión
-##### Guía Turístico->IU:registrarNuevoServicio()
-##### IU->Controller:Validar datos
-##### Controller->Persistencia:Almacenar datos
-##### Controller->IU:Generar nueva oferta de servicio
+Guía Turístico->IU:Ingresar al sitio web
+IU->Controller:Validar logueo(Guía Turístico)
+Controller->IU:Mostrar inicio de sesión
+Guía Turístico->IU:registrarNuevoServicio()
+IU->Controller:Validar datos
+Controller->Persistencia:Almacenar datos
+Controller->IU:Generar nueva oferta de servicio
+```
