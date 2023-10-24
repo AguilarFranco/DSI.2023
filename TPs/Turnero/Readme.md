@@ -48,3 +48,7 @@ Si el alcance de nuestra clínica no es muy elevado inicialmente,voy a optar por
 ### Diagrama de clases
 
 ![DiagramaDeClases](DiagramaDeClases.jpg)
+
+### Mapeo de objetos a tablas
+
+![Mapeo](MapeoObjetoRelacional.png)
