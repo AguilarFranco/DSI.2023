@@ -49,6 +49,10 @@ Si el alcance de nuestra clínica no es muy elevado inicialmente,voy a optar por
 
 ![DiagramaDeClases](DiagramaDeClases.jpg)
 
+### Diagrama de colaboración
+
+![DiagramaDeColaboracion](DiagramaDeColaboracion.png)
+
 ### Mapeo de objetos a tablas
 
 ![Mapeo](MapeoObjetoRelacional.png)
